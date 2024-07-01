@@ -1,3 +1,6 @@
+Estudante: Gabriel Meireles Dias Narciso
+RGA: 202219040388
+
 Tarefa 1: (Adaptação da AVL)
 descrição: (1.1) Adapte o código de AVL dado em sala para que os nodes possuam ponteiro para o pai.
            (1.2) cada nó da árvore deve ter uma lista encadeada que armazena os registros com chaves iguais (um nó pode ter dois ou mais registros).
